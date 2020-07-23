@@ -1,0 +1,18 @@
+{
+  "name": "Martina Vilas",
+  "short_name": "Martina Vilas",
+  "lang": "en-us",
+  "theme_color": "#b38989",
+  "background_color": "#b38989",
+  "icons": [{
+    "src": "/images/icon_hue0eb298a60a229250d37110571247188_2106_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hue0eb298a60a229250d37110571247188_2106_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

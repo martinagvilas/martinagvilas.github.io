@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>consciousness | Martina Vilas</title>
+    <link>https://martinagvilas.github.io/category/consciousness/</link>
+      <atom:link href="https://martinagvilas.github.io/category/consciousness/index.xml" rel="self" type="application/rss+xml" />
+    <description>consciousness</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 22:48:24 +0200</lastBuildDate>
+    <image>
+      <url>https://martinagvilas.github.io/images/icon_hue0eb298a60a229250d37110571247188_2106_512x512_fill_lanczos_center_2.png</url>
+      <title>consciousness</title>
+      <link>https://martinagvilas.github.io/category/consciousness/</link>
+    </image>
+    
+    <item>
+      <title>A challenge for predictive coding: Representational or experiential diversity?</title>
+      <link>https://martinagvilas.github.io/publication/a-challenge-for-predictive-coding/</link>
+      <pubDate>Sun, 21 Jun 2020 22:48:24 +0200</pubDate>
+      <guid>https://martinagvilas.github.io/publication/a-challenge-for-predictive-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic functional connectivity and brain metastability during altered states of consciousness</title>
+      <link>https://martinagvilas.github.io/publication/brain-metastability-cc/</link>
+      <pubDate>Wed, 17 Oct 2018 22:58:38 +0200</pubDate>
+      <guid>https://martinagvilas.github.io/publication/brain-metastability-cc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

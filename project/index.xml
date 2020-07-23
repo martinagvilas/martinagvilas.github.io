@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Martina Vilas</title>
+    <link>https://martinagvilas.github.io/project/</link>
+      <atom:link href="https://martinagvilas.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 18:22:41 +0200</lastBuildDate>
+    <image>
+      <url>https://martinagvilas.github.io/images/icon_hue0eb298a60a229250d37110571247188_2106_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://martinagvilas.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the content and representational format of information in higher-level areas</title>
+      <link>https://martinagvilas.github.io/project/abstract-processes/</link>
+      <pubDate>Tue, 21 Jul 2020 18:22:41 +0200</pubDate>
+      <guid>https://martinagvilas.github.io/project/abstract-processes/</guid>
+      <description>&lt;p&gt;Our brain seems to function in a hierarchical fashion, with lower-regions processing fine-grained details of our environment and higher-level regions encoding more abstract content. But many different regions in the brain are considered “high-level” (e.g. all those belonging to the default mode network). What features of our everyday experiences is each of these processing? How do they represent, store or retrieve this abstract information? How much and in what ways do they depend on the processes taking place lower in the hierarchy? Our work addresses these questions using a combination of neuroimaging techniques (fMRI, MEG and ECoG), visual narrative data and MVPA approaches.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking the content and spatio-temporal unfolding of top-down predictions across the cortical hierarchy</title>
+      <link>https://martinagvilas.github.io/project/top-down-predictions/</link>
+      <pubDate>Tue, 21 Jul 2020 18:14:06 +0200</pubDate>
+      <guid>https://martinagvilas.github.io/project/top-down-predictions/</guid>
+      <description>&lt;p&gt;Our brain not only processes incoming information from the environment, but also continuously predicts upcoming events. How are these predictions encoded in natural, and thus complex, situations? Which are they neural underpinnings? How do they propagate across the cortical hierarchy? Can we find different types of predictions based on their neural substrates? Using high-temporal resolution methods (MEG and ECoG) and visual narratives, we aim to understand the algorithmic nature of predictions in naturalistic contexts and how they are implemented in the brain, through a variety of MVPA and cognitive modeling techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
