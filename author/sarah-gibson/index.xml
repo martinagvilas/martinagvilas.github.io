@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Gibson | Martina Vilas</title>
+    <link>https://martinagvilas.github.io/author/sarah-gibson/</link>
+      <atom:link href="https://martinagvilas.github.io/author/sarah-gibson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah Gibson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinagvilas.github.io/images/icon_hue0eb298a60a229250d37110571247188_2106_512x512_fill_lanczos_center_2.png</url>
+      <title>Sarah Gibson</title>
+      <link>https://martinagvilas.github.io/author/sarah-gibson/</link>
+    </image>
+    
+    <item>
+      <title>Creating a Jupyter Book with The Turing Way</title>
+      <link>https://martinagvilas.github.io/talk/jupyter_book_tutorial/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://martinagvilas.github.io/talk/jupyter_book_tutorial/</guid>
+      <description>&lt;p&gt;Jupyter Book is an open source project for building publication-ready online books with computational files. The Turing Way is a community-led book project on learning computational skills, which is hosted online as a Jupyter Book. In this tutorial, you will learn about the collaborative nature of both projects and create your own Jupyter Book using files and chapters from The Turing Way as examples.&lt;/p&gt;
+&lt;h2 id=&#34;sessions-in-detail&#34;&gt;Sessions in detail:&lt;/h2&gt;
+&lt;p&gt;The topics and activities to be covered in this workshop are the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We will start by introducing The Turing Way and Jupyter Book.&lt;/li&gt;
+&lt;li&gt;The session leads will present The Turing Way as a community-developed book project on research reproducibility, project design, communication, collaboration and ethics.&lt;/li&gt;
+&lt;li&gt;A demo of The Turing Way&amp;rsquo;s GitHub repository will explain how a Jupyter book is created and how they are hosted online.&lt;/li&gt;
+&lt;li&gt;A hands-on session will be carried out to create a Jupyter Book using The Turing Way chapters as examples.&lt;/li&gt;
+&lt;li&gt;We will explain what Continuous Integration (CI) is and how to deploy CI tests using GitHub Actions.&lt;/li&gt;
+&lt;li&gt;We will show the collaborative workflow of Jupyter Book that allows GitHub based contributions by the users of the book.&lt;/li&gt;
+&lt;li&gt;The session will end with sharing details on how participants can gain further support when working with Jupyter Books and The Turing Way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning outcomes&lt;/h2&gt;
+&lt;p&gt;In this tutorial, our learners will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Get introduced to The Turing Way and Jupyter Book projects as reproducible and collaborative platforms for community-developed computational resources.&lt;/li&gt;
+&lt;li&gt;Learn how to create and structure a Jupyter Book using example chapters from The Turing Way.&lt;/li&gt;
+&lt;li&gt;Configure and personalise their Jupyter Book locally and connect it to an online GitHub repository.&lt;/li&gt;
+&lt;li&gt;Learn how Jupyter Notebooks can be used as chapters and executed using Binder.&lt;/li&gt;
+&lt;li&gt;Learn what Continuous Integration (CI) and Continuous Deployment (CD) are and how to use them with GitHub Actions.&lt;/li&gt;
+&lt;li&gt;Get introduced to Sphinx-based features in Jupyter Book for citing external resources and cross-referencing its chapters.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
