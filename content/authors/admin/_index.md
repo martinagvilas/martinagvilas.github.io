@@ -29,7 +29,8 @@ organizations:
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Mechanistic Interpretability / Explainability
+  - Mechanistic Interpretability 
+  - Explainability
   - Computer Vision
   - NLP
   - Multimodal Learning
