@@ -190,7 +190,8 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications  _(selected)_
+      title: Publications
+      subtitle: _(selected)_
       filters:
         folders:
           - publication
