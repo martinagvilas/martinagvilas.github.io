@@ -31,8 +31,7 @@ publication_types: ['paper-conference']
 publication: In Conference on Cognitive Computational Neuroscience (CCN 2022)
 publication_short: In CCN
 
-abstract: We introduce Net2Brain, a graphical and command-line user interface toolbox for comparing the representational spaces of artificial deep neural networks (DNNs) and human brain recordings. While different toolboxes facilitate only single functionalities or only focus on a small subset of supervised image classification models, Net2Brain allows the extraction of activations of more than 600 DNNs trained to perform a diverse range of vision-related tasks
-(e.g semantic segmentation, depth estimation, action recognition, etc.), over both image and video datasets. The toolbox computes the representational dissimilarity matrices (RDMs) over those activations and compares them to brain recordings using representational similarity analysis (RSA), weighted RSA, both in specific ROIs and with searchlight search. In addition, it is possible to add a new data set of stimuli and brain recordings to the toolbox for evaluation. We demonstrate the functionality and advantages of Net2Brain with an example showcasing how it can be used to test hypotheses of cognitive computational neuroscience.
+abstract: We introduce Net2Brain, a graphical and command-line user interface toolbox for comparing the representational spaces of artificial deep neural networks (DNNs) and human brain recordings. While different toolboxes facilitate only single functionalities or only focus on a small subset of supervised image classification models, Net2Brain allows the extraction of activations of more than 600 DNNs trained to perform a diverse range of vision-related tasks (e.g semantic segmentation, depth estimation, action recognition, etc.), over both image and video datasets. The toolbox computes the representational dissimilarity matrices (RDMs) over those activations and compares them to brain recordings using representational similarity analysis (RSA), weighted RSA, both in specific ROIs and with searchlight search. In addition, it is possible to add a new data set of stimuli and brain recordings to the toolbox for evaluation. We demonstrate the functionality and advantages of Net2Brain with an example showcasing how it can be used to test hypotheses of cognitive computational neuroscience.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -59,8 +58,8 @@ url_code: 'https://github.com/cvai-roig-lab/Net2Brain'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Schematic of our framework'
-  focal_point: 'Top'
+  caption: ''
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
