@@ -190,7 +190,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications \(selected)
+      title: Publications \\(_selected_)
       filters:
         folders:
           - publication
@@ -217,7 +217,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks & Tutorials (selected)
+      title: Talks & Tutorials (_selected_)
       filters:
         folders:
           - event
