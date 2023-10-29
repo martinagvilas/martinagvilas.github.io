@@ -191,7 +191,7 @@ sections:
     id: featured
     content:
       title: Publications
-      subtitle: _(selected)_
+      subtitle: (selected)
       filters:
         folders:
           - publication
@@ -218,7 +218,8 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks & Tutorials _(selected)_
+      title: Talks & Tutorials 
+      subtitle: (selected)
       filters:
         folders:
           - event
