@@ -4,7 +4,7 @@ title: Reproducibility of deep learning models in cognitive computational neuros
 event: ICLR 2021 - LatinX in AI Social
 event_url: https://iclr.cc/Conferences/2021
 
-location: Online
+location: ICLR 2021 - LatinX in AI Social
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
