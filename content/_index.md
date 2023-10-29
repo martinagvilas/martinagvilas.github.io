@@ -214,22 +214,22 @@ sections:
   #     columns: '2'
   #     view: citation
   
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Talks & Tutorials
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
+  - block: collection
+    id: talks
+    content:
+      title: Talks & Tutorials
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:

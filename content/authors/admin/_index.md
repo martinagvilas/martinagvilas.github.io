@@ -119,8 +119,8 @@ social:
 highlight_name: true
 ---
 
-I’m a computer science PhD student at Goethe University, in Frankfurt am Main, Germany. I’m both part of [Gemma Roig’s lab](http://www.cvai.cs.uni-frankfurt.de/index.html) and the [Ernst Strüngmann Institute for Neuroscience](https://www.esi-frankfurt.de/) (*in Cooperation with Max Planck Society*).
+I’m a computer science PhD student at Goethe University, in Frankfurt am Main, Germany. I work under the supervision of Prof. [Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/index.html) and I'm also part of the [Ernst Strüngmann Institute for Neuroscience](https://www.esi-frankfurt.de/) (*in Cooperation with Max Planck Society*).
 
-My current research focuses on studying how AI systems abstract semantic knowledge from unimodal and multimodal sources of information.
+My current research focuses on studying how AI systems abstract semantic knowledge from unimodal and multimodal sources of information. I'm interested in how these mechansims differ from those of humans' cognitive processing.
 
-I also enjoy contributing to open-source projects and developing research software related to machine learning and data science more broadly.
+<!-- I also enjoy contributing to open-source projects and developing research software related to machine learning and data science more broadly. -->
