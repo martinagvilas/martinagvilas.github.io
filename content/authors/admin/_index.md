@@ -101,7 +101,7 @@ social:
     link: https://twitter.com/martinagvilas
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=X_n9NsAAAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=en&user=X_n9NsAAAAAJ&view_op=list_works&sortby=pubdate
   - icon: github
     icon_pack: fab
     link: https://github.com/martinagvilas
