@@ -31,9 +31,9 @@ interests:
   - Artificial Intelligence
   - Mechanistic Interpretability 
   - Explainability
+  - Multimodal Learning
   - Computer Vision
   - NLP
-  - Multimodal Learning
 
 # Education to show in About widget
 # education:
@@ -119,7 +119,7 @@ social:
 highlight_name: true
 ---
 
-I’m a computer science PhD student at Goethe University, in Frankfurt am Main, Germany. I work under the supervision of Prof. [Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/index.html) and I'm also part of the [Ernst Strüngmann Institute for Neuroscience](https://www.esi-frankfurt.de/) (*in Cooperation with Max Planck Society*).
+I’m a computer science PhD student at Goethe University (Frankfurt am Main, Germany), with a background in Cognitive Neuroscience. I work under the supervision of Prof. [Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/index.html) and I'm also part of the [Ernst Strüngmann Institute for Neuroscience](https://www.esi-frankfurt.de/) (*in Cooperation with Max Planck Society*).
 
 My current research focuses on studying how AI systems abstract semantic knowledge from unimodal and multimodal sources of information. I'm generally interested in the development of tools for reverse engineering the cognitive capacities of deep learning models.
 
